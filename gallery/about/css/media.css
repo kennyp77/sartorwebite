@@ -1,0 +1,244 @@
+@font-face {
+font-family: "Playfair";
+
+src:
+url("gallery/fonts/PlayfairDisplay-Regular.woff") format("woff"),
+url("gallery/fonts/PlayfairDisplay-Regular.otf") format("opentype"),
+url("gallery/fonts/PlayfairDisplay-Italic-VariableFont_wght.woff") format("woff"),
+url("gallery/fonts/PlayfairDisplay-Italic-VariableFont_wght.otf") format("opentype"),
+url("gallery/fonts/PlayfairDisplay-SemiBoldItalic.woff") format("woff"),
+url("gallery/fonts/PlayfairDisplay-SemiBoldItalic.otf") format("opentype"),
+
+}
+
+@font-face {
+font-family: "Roboto-Regular";
+
+src:
+url("gallery/fonts/Roboto-Regular.woff") format("woff"),
+url("gallery/fonts/Roboto-Regular.otf") format("opentype"),
+
+
+}
+
+
+@font-face {
+font-family: "Playfair-b";
+
+src:
+url("gallery/fonts/PlayfairDisplay-SemiBoldItalic.woff") format("woff"),
+url("gallery/fonts/PlayfairDisplay-SemiBoldItalic.otf") format("opentype"),
+
+}
+
+@font-face {
+font-family: "Raleway";
+
+src:
+url("gallery/fonts/Raleway-VariableFont_wght.woff") format("woff"),
+url("gallery/fonts/Raleway-VariableFont_wght.otf") format("opentype"),
+url("gallery/fonts/Raleway-Italic-VariableFont_wght.woff") format("woff"),
+url("gallery/fonts/Raleway-Italic-VariableFont_wght.otf") format("opentype"),
+
+}
+
+/* Large devices (desktops, 992px and up)  */
+@media (min-width: 992px) and (max-width: 1199.98px) {}
+
+
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .navbar-toggler {
+        float: left;
+        margin-top: 37px;
+    }
+
+    .navbar-light .navbar-brand {
+        float: right;
+    }
+
+    #about-banner p {
+        padding: 0px 22px 70px;
+    }
+
+    .about-p {
+        padding: 0px 0px 30px !important;
+    }
+
+    #team-part h2 {
+        font-family: "Playfair-b";
+        font-weight: normal;
+        padding: 0px 20px 20px 20px;
+    }
+
+    #luxery-part p {
+        padding: 0px 27px 40px !important;
+    }
+
+    .about-contact-box {
+        padding-bottom: 40px;
+    }
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+    #banner-part {
+        height: 600px;
+    }
+
+    #banner-part h2 {
+        padding: 100px 20px 0px;
+    }
+
+    #banner-part p {
+        padding: 20px 20px;
+    }
+
+    #subscribe-now h2 {
+        padding-top: 50px;
+    }
+
+    #subscribe-now button {
+        margin-top: 30px;
+    }
+
+    .navbar-toggler {
+        float: left;
+        margin-top: 37px;
+    }
+
+    .navbar-light .navbar-brand {
+        float: right;
+    }
+
+    #about-banner p {
+        padding: 0px 22px 40px !important;
+    }
+
+    .about-p {
+        padding: 0px 0px 30px !important;
+    }
+
+    #team-part h2 {
+        font-family: "apexmk2", apexmk2;
+        font-weight: normal;
+        padding: 0px 20px 20px 20px;
+    }
+
+    #luxery-part p {
+        padding: 0px 27px 40px !important;
+    }
+
+    .about-contact-box {
+        padding-bottom: 40px;
+    }
+
+    .banner-inner-section {
+        height: 100%;
+        margin-left: 0px;
+        background-color: #e2502c;
+    }
+
+    .banner-inner-icon-part {
+        padding-top: 50px;
+    }
+}
+
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+    #banner-part {
+        height: 400px;
+    }
+
+    #banner-part h2 {
+        padding: 80px 20px 0px;
+        font-size: 30px;
+    }
+
+    #banner-part p {
+        padding: 20px 20px;
+        font-size: 12px;
+    }
+
+    #banner-part .btn-one {
+        padding: 10px 20px;
+        border-radius: 5px;
+        font-size: 10px;
+    }
+
+    #banner-part .btn-two {
+        padding: 10px 20px;
+        border-radius: 5px;
+        font-size: 10px;
+    }
+
+    #subscribe-now h2 {
+        font-size: 25px;
+        padding-top: 50px;
+    }
+
+    #podcast-series h2 {
+        font-size: 35px;
+    }
+
+    #subscribe-now {
+        height: 300px;
+    }
+
+    #subscribe-now input {
+        width: 375px;
+        height: 50px;
+        border: 0px;
+        border-radius: 5px;
+        color: rgb(148, 148, 148);
+        padding-left: 25px;
+    }
+
+    #subscribe-now button {
+        width: 110px;
+        height: 40px;
+        margin-top: 30px;
+    }
+
+    .navbar-toggler {
+        float: left;
+        margin-top: 37px;
+    }
+
+    .navbar-light .navbar-brand {
+        float: right;
+    }
+
+    #about-banner p {
+        padding: 0px 22px 40px !important;
+    }
+
+    .about-p {
+        padding: 0px 0px 30px !important;
+    }
+
+    #team-part h2 {
+        font-family: "apexmk2", apexmk2;
+        font-weight: normal;
+        padding: 0px 20px 20px 20px;
+    }
+
+    #luxery-part p {
+        padding: 0px 27px 40px !important;
+    }
+
+    .about-contact-box {
+        padding-bottom: 40px;
+    }
+
+    .banner-inner-section {
+        height: 100%;
+        margin-left: 0px;
+        background-color: #e2502c;
+    }
+
+    .banner-inner-icon-part {
+        padding-top: 50px;
+    }
+}

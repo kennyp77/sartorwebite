@@ -1,0 +1,273 @@
+@media only screen and (min-width: 1600px) {
+	.portfolio-section .container {
+		max-width: 1570px;
+	}
+}
+
+@media only screen and (min-width: 1200px) {
+	.container {
+		max-width: 1170px;
+	}
+}
+
+/* Medium Device: 1200px */
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+	.member-item .mi-text {
+		padding: 30px 20px 60px 20px;
+	}
+	.blog-item .bi-text {
+		padding-top: 20px;
+		padding-right: 10px;
+		padding-bottom: 30px;
+	}
+	.as-text .about-counter .ac-item {
+		margin-right: 12px;
+	}
+	.as-text .about-counter .ac-item:after {
+		right: -7px;
+	}
+}
+
+@media only screen and (max-width: 991px) {
+	.as-text {
+		padding-left: 0;
+	}
+	.blog-item {
+		height: auto;
+	}
+	.blog-item .bi-text {
+		padding-left: 30px;
+	}
+	.footer-widget.fw-links {
+		padding-left: 0;
+	}
+	.contact-option {
+		padding-top: 30px;
+	}
+	.as-text.ap-text {
+		padding-top: 30px;
+	}
+}
+
+/* Large Mobile: 480px */
+
+@media only screen and (max-width: 767px) {
+	.main-menu {
+		text-align: right;
+		display: none;
+	}
+	.slicknav_btn {
+		margin: 0;
+		border-radius: 0;
+		background-color: #666;
+		position: absolute;
+		right: 15px;
+		top: 20px;
+		display: inline-block;
+		float: none;
+	}
+	.slicknav_nav {
+		background: #666;
+		display: block;
+	}
+	.slicknav_menu {
+		display: block;
+		background: transparent;
+		padding: 0;
+	}
+	.header-section .container {
+		position: relative;
+	}
+	.slicknav_nav .slicknav_row, .slicknav_nav a {
+		padding: 8px 30px;
+		margin: 0;
+	}
+	.slicknav_nav ul {
+		margin: 0;
+	}
+	.slicknav_nav a:hover {
+		border-radius: 0;
+		background: #e2502c;
+		color: #ffffff;
+	}
+	.slicknav_nav .slicknav_row:hover {
+		border-radius: 0;
+		background: #e2502c;
+		color: #ffffff;
+	}
+	.breadcrumb-text {
+		text-align: left;
+	}
+	.counter-item .ci-number {
+		position: relative;
+		margin-bottom: 15px;
+	}
+	.counter-item .ci-text {
+		padding-left: 0;
+	}
+	.as-text .about-counter .ac-item {
+		margin-right: 20px;
+	}
+	.as-text .about-counter .ac-item:after {
+		right: -11px;
+	}
+	.blog-hero-section .bh-text ul li {
+		margin-right: 20px;
+	}
+	.blog-hero-section .bh-text ul li:after {
+		right: -12px;
+	}
+	.bd-text .tag-share .tags {
+		float: none;
+		margin-bottom: 30px;
+	}
+	.bd-text .tag-share .social-share {
+		text-align: left;
+	}
+	.gallery-section .gallery-controls ul li {
+		margin-right: 12px;
+	}
+	.bd-text .bd-quote img {
+		position: relative;
+		left: 0;
+		top: 0;
+		margin-bottom: 10px;
+	}
+	.bd-text .bd-quote {
+		padding: 40px;
+	}
+	.blog-hero-section .bh-text h2 {
+		font-size: 40px;
+		line-height: normal;
+	}
+}
+
+/* Small Mobile: 320px */
+
+@media only screen and (max-width: 479px) {
+	.blog-hero-section .bh-text h2 {
+		font-size: 36px;
+		line-height: normal;
+	}
+	.testimonial-item .ti-pic {
+		float: none;
+		margin-right: 0;
+	}
+	.testimonial-item .ti-text {
+		overflow: visible;
+	}
+	.member-item .mi-text {
+		padding: 30px 20px 60px 20px;
+	}
+	.blog-hero-section .bh-text ul li {
+		margin-right: 10px;
+	}
+	.blog-hero-section .bh-text ul li:after {
+		display: none;
+	}
+	.bd-text .tag-share .tags a {
+		margin-bottom: 6px;
+	}
+	.recommend-section .section-title h2 {
+		font-size: 35px;
+	}
+	.blog-item.solid-bg {
+		padding: 55px 45px 55px 50px;
+	}
+	.bd-text .tag-share .social-share a {
+		margin-left: 15px;
+	}
+	.contact-text .ct-item {
+		margin-bottom: 30px;
+		text-align: center;
+	}
+	.contact-text .ct-item .ci-icon {
+		float: none;
+		width: 60px;
+		height: 60px;
+		line-height: 70px;
+		margin: 0 auto;
+	}
+	.contact-text .ct-item .ci-icon span {
+		font-size: 22px;
+	}
+	@media only screen and (min-width: 600px) {
+		/* For tablets: */
+		.col-s-1 {
+			width: 8.33%;
+		}
+		.col-s-2 {
+			width: 16.66%;
+		}
+		.col-s-3 {
+			width: 25%;
+		}
+		.col-s-4 col-md-6 {
+			width: 33.33%;
+		}
+		.col-s-5 {
+			width: 41.66%;
+		}
+		.col-s-6 {
+			width: 50%;
+		}
+		.col-s-7 {
+			width: 58.33%;
+		}
+		.col-s-8 {
+			width: 66.66%;
+		}
+		.col-s-9 {
+			width: 75%;
+		}
+		.col-s-10 {
+			width: 83.33%;
+		}
+		.col-s-11 {
+			width: 91.66%;
+		}
+		.col-s-12 {
+			width: 100%;
+		}
+	}
+	@media only screen and (min-width: 768px) {
+		/* For desktop: */
+		.col-1 {
+			width: 8.33%;
+		}
+		.col-2 {
+			width: 16.66%;
+		}
+		.col-3 {
+			width: 25%;
+		}
+		.col-4 col-md-6 {
+			width: 33.33%;
+		}
+		.col-5 {
+			width: 41.66%;
+		}
+		.col-6 {
+			width: 50%;
+		}
+		.col-7 {
+			width: 58.33%;
+		}
+		.col-8 {
+			width: 66.66%;
+		}
+		.col-9 {
+			width: 75%;
+		}
+		.col-10 {
+			width: 83.33%;
+		}
+		.col-11 {
+			width: 91.66%;
+		}
+		.col-12 {
+			width: 100%;
+		}
+	}
+}

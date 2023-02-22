@@ -1,0 +1,548 @@
+i: https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\ajax\libs\webfont\1.6.26\webfont.js
+Content Type: text/javascript
+
+Uri: https://assets.website-files.com/5ebc153fa42809951126525e/5ed00328917a694fbfbb0fa1_icons8-play-96 (2).png
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\5ebc153fa42809951126525e\5ed00328917a694fbfbb0fa1_icons8-play-96 (2).png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/603d05ce503d705e256b4d2b/603d0cab1061952fd39b8c90_facebook-logo Black.svg
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\603d05ce503d705e256b4d2b\603d0cab1061952fd39b8c90_facebook-logo Black.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/603d05ce503d705e256b4d2b/603eb4ae4dc8d804d3afbb25_code.png
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\603d05ce503d705e256b4d2b\603eb4ae4dc8d804d3afbb25_code.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/603d05ce503d705e256b4d2b/604277261aab4e3871de2e94_icons8-administrator-male-90.png
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\603d05ce503d705e256b4d2b\604277261aab4e3871de2e94_icons8-administrator-male-90.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/603d05ce503d705e256b4d2b/60427790896390d9042e6ad0_icons8-company-96.png
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\603d05ce503d705e256b4d2b\60427790896390d9042e6ad0_icons8-company-96.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/603d05ce503d705e256b4d2b/60429be362897f0a013167be_icons8-globe-earth-96.png
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\603d05ce503d705e256b4d2b\60429be362897f0a013167be_icons8-globe-earth-96.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/603d05ce503d705e256b4d2b/60429c1b6700fb5a819a0bf8_icons8-job-seeker-96.png
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\603d05ce503d705e256b4d2b\60429c1b6700fb5a819a0bf8_icons8-job-seeker-96.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/603d05ce503d705e256b4d2b/60429fb779c9f93fba60d9c6_aven.png
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\603d05ce503d705e256b4d2b\60429fb779c9f93fba60d9c6_aven.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/603d05ce503d705e256b4d2b/60429fb779c9f9db8260d9c8_earth.png
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\603d05ce503d705e256b4d2b\60429fb779c9f9db8260d9c8_earth.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/603d05ce503d705e256b4d2b/60429fb779c9f9dda860d9c2_circle.png
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\603d05ce503d705e256b4d2b\60429fb779c9f9dda860d9c2_circle.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/603d05ce503d705e256b4d2b/60429fb779c9f9ee4860d9c4_zootv.png
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\603d05ce503d705e256b4d2b\60429fb779c9f9ee4860d9c4_zootv.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/603d05ce503d705e256b4d2b/60440dd77914e462fa916d09_icons8-star-filled-96 (3).png
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\603d05ce503d705e256b4d2b\60440dd77914e462fa916d09_icons8-star-filled-96 (3).png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/603d05ce503d705e256b4d2b/6046550846b14c2d34d6433f_icons8-buddha-96 (1).png
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\603d05ce503d705e256b4d2b\6046550846b14c2d34d6433f_icons8-buddha-96 (1).png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/603d05ce503d705e256b4d2b/60465512af6bb4fc68a4b6a3_icons8-statue-of-liberty-100 (1).png
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\603d05ce503d705e256b4d2b\60465512af6bb4fc68a4b6a3_icons8-statue-of-liberty-100 (1).png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/603d05ce503d705e256b4d2b/6046c8df55032382fb854f8e_ideaa.png
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\603d05ce503d705e256b4d2b\6046c8df55032382fb854f8e_ideaa.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/603d05ce503d705e256b4d2b/6047e41b36d26554b0c792b7_collage.jpg
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\603d05ce503d705e256b4d2b\6047e41b36d26554b0c792b7_collage.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/603d05ce503d705e256b4d2b/6047e424958bce0a5d290c1b_it's-not-easy-to-be-a-new-person.jpg
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\603d05ce503d705e256b4d2b\6047e424958bce0a5d290c1b_it's-not-easy-to-be-a-new-person.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/603d05ce503d705e256b4d2b/6047e43a330478bc572dc90c_talking-about-new-design.jpg
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\603d05ce503d705e256b4d2b\6047e43a330478bc572dc90c_talking-about-new-design.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/603d05ce503d705e256b4d2b/6047e45433047867392dc92a_download.jpg
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\603d05ce503d705e256b4d2b\6047e45433047867392dc92a_download.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/603d05ce503d705e256b4d2b/6047e4665f965d43800b8dee_do-you-see-my-point_.jpg
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\603d05ce503d705e256b4d2b\6047e4665f965d43800b8dee_do-you-see-my-point_.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/603d05ce503d705e256b4d2b/6047e4746df881dabc3cd5a1_i-kinda-like-the-sound-of-that-idea.jpg
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\603d05ce503d705e256b4d2b\6047e4746df881dabc3cd5a1_i-kinda-like-the-sound-of-that-idea.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/603d05ce503d705e256b4d2b/6047e484a3de69aea3ebbbba_creative-process-involves-a-team.jpg
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\603d05ce503d705e256b4d2b\6047e484a3de69aea3ebbbba_creative-process-involves-a-team.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/603d05ce503d705e256b4d2b/6047e498d234d66a3f7371bf_another-morning-in-the-office%2C-just-minutes-before-the-work-day-starts.jpg
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\603d05ce503d705e256b4d2b\6047e498d234d66a3f7371bf_another-morning-in-the-office,-just-minutes-before-the-work-day-starts.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/603d05ce503d705e256b4d2b/6047e5c862c893394530e0ba_talking-about-improvements-to-make-about-this-project.jpg
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\603d05ce503d705e256b4d2b\6047e5c862c893394530e0ba_talking-about-improvements-to-make-about-this-project.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/603d05ce503d705e256b4d2b/6047e5fc812c708f453e3409_caring-and-sharing.jpeg
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\603d05ce503d705e256b4d2b\6047e5fc812c708f453e3409_caring-and-sharing.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/603d05ce503d705e256b4d2b/6047e61b71ecf86d9a489266_success-comes-with-confidence.jpg
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\603d05ce503d705e256b4d2b\6047e61b71ecf86d9a489266_success-comes-with-confidence.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/603d05ce503d705e256b4d2b/6047e634af661dfff5a7cbfd_young-man-holding-covid-19-test.jpg
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\603d05ce503d705e256b4d2b\6047e634af661dfff5a7cbfd_young-man-holding-covid-19-test.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/603d05ce503d705e256b4d2b/6047e66558a91c4f6f9bc362_call-center-agent-looking-outraged-while-explaining-something.jpg
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\603d05ce503d705e256b4d2b\6047e66558a91c4f6f9bc362_call-center-agent-looking-outraged-while-explaining-something.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/603d05ce503d705e256b4d2b/60480c32a10bc0dfdac5351c_icons8-checkmark-192.png
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\603d05ce503d705e256b4d2b\60480c32a10bc0dfdac5351c_icons8-checkmark-192.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/603d05ce503d705e256b4d2b/60490423d4497147726b9b88_a-female-office-worker-at-the-table-holding-papers-with-diagrams.jpg
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\603d05ce503d705e256b4d2b\60490423d4497147726b9b88_a-female-office-worker-at-the-table-holding-papers-with-diagrams.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/603d05ce503d705e256b4d2b/60495dc72950e0319bd7efc0_modern-office-background.jpg
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\603d05ce503d705e256b4d2b\60495dc72950e0319bd7efc0_modern-office-background.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/603d05ce503d705e256b4d2b/604960b3a99dc26fb733b1f7_a-lot-of-work-to-get-through.jpeg
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\603d05ce503d705e256b4d2b\604960b3a99dc26fb733b1f7_a-lot-of-work-to-get-through.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/603d05ce503d705e256b4d2b/604bda9d6ff10c67b93a2a6e_сan-you-just-stop-for-one-minute-and-look-here_.jpg
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\603d05ce503d705e256b4d2b\604bda9d6ff10c67b93a2a6e_сan-you-just-stop-for-one-minute-and-look-here_.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/603d05ce503d705e256b4d2b/604ce16a63ae44e47d0d4307_icons8-walking-100.png
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\603d05ce503d705e256b4d2b\604ce16a63ae44e47d0d4307_icons8-walking-100.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/603d05ce503d705e256b4d2b/604ce1a084f8f87f712c805b_icons8-standing-man-100.png
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\603d05ce503d705e256b4d2b\604ce1a084f8f87f712c805b_icons8-standing-man-100.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/603d05ce503d705e256b4d2b/604ce1bb08cd1b562815271a_icons8-running-100.png
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\603d05ce503d705e256b4d2b\604ce1bb08cd1b562815271a_icons8-running-100.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/603d05ce503d705e256b4d2b/604d6af29059753786cb1886_icons8-lock-90.png
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\603d05ce503d705e256b4d2b\604d6af29059753786cb1886_icons8-lock-90.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/603d05ce503d705e256b4d2b/604e4761f02e1e134d372621_JG-256.jpg
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\603d05ce503d705e256b4d2b\604e4761f02e1e134d372621_JG-256.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/603d05ce503d705e256b4d2b/604e622f08cd1b30891abd4f_JG-32.jpg
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\603d05ce503d705e256b4d2b\604e622f08cd1b30891abd4f_JG-32.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/603d05ce503d705e256b4d2b/60540e872bc8e706770edf17_2222-p-500.png
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\603d05ce503d705e256b4d2b\60540e872bc8e706770edf17_2222-p-500.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/603d05ce503d705e256b4d2b/60540e872bc8e75bd40edf13_3333-p-500.png
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\603d05ce503d705e256b4d2b\60540e872bc8e75bd40edf13_3333-p-500.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/603d05ce503d705e256b4d2b/60540e872bc8e75bd40edf13_3333.png
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\603d05ce503d705e256b4d2b\60540e872bc8e75bd40edf13_3333.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/603d05ce503d705e256b4d2b/60540e872bc8e78e9e0edf0b_5555-p-500.png
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\603d05ce503d705e256b4d2b\60540e872bc8e78e9e0edf0b_5555-p-500.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/603d05ce503d705e256b4d2b/60540e872bc8e78e9e0edf0b_5555.png
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\603d05ce503d705e256b4d2b\60540e872bc8e78e9e0edf0b_5555.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/603d05ce503d705e256b4d2b/60540e872bc8e7bee50edf0f_4444-p-500.png
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\603d05ce503d705e256b4d2b\60540e872bc8e7bee50edf0f_4444-p-500.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/603d05ce503d705e256b4d2b/60540e872bc8e7bee50edf0f_4444.png
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\603d05ce503d705e256b4d2b\60540e872bc8e7bee50edf0f_4444.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/603d05ce503d705e256b4d2b/60541016587841b9bc170b88_111_1-p-500.png
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\603d05ce503d705e256b4d2b\60541016587841b9bc170b88_111_1-p-500.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/603d05ce503d705e256b4d2b/60541016587841b9bc170b88_111_1-p-800.png
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\603d05ce503d705e256b4d2b\60541016587841b9bc170b88_111_1-p-800.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/603d05ce503d705e256b4d2b/60541016587841b9bc170b88_111_1.png
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\603d05ce503d705e256b4d2b\60541016587841b9bc170b88_111_1.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/603d05ce503d705e256b4d2b/6054117dcc1bed2949b55a03_66-p-500.png
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\603d05ce503d705e256b4d2b\6054117dcc1bed2949b55a03_66-p-500.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/603d05ce503d705e256b4d2b/6054117dcc1bed2949b55a03_66-p-800.png
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\603d05ce503d705e256b4d2b\6054117dcc1bed2949b55a03_66-p-800.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/603d05ce503d705e256b4d2b/6054117dcc1bed2949b55a03_66.png
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\603d05ce503d705e256b4d2b\6054117dcc1bed2949b55a03_66.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/603d05ce503d705e256b4d2b/60541dfe82abde2a13e130e3_111.jpg
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\603d05ce503d705e256b4d2b\60541dfe82abde2a13e130e3_111.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/603d05ce503d705e256b4d2b/60541e0ce7d09ac24d5119da_444.jpg
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\603d05ce503d705e256b4d2b\60541e0ce7d09ac24d5119da_444.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/603d05ce503d705e256b4d2b/60541e153fa5813d6dce3e92_222.jpg
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\603d05ce503d705e256b4d2b\60541e153fa5813d6dce3e92_222.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/603d05ce503d705e256b4d2b/60541e210181e6d90e839ac0_333.jpg
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\603d05ce503d705e256b4d2b\60541e210181e6d90e839ac0_333.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/603d05ce503d705e256b4d2b/60541e2b101f83aabe9f6e76_555.jpg
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\603d05ce503d705e256b4d2b\60541e2b101f83aabe9f6e76_555.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/603d05ce503d705e256b4d2b/60541e35a5bf622ef0b5f9e3_666.jpg
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\603d05ce503d705e256b4d2b\60541e35a5bf622ef0b5f9e3_666.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/603d05ce503d705e256b4d2b/60b771b31574a64ca8c50c55_744887.jpg
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\603d05ce503d705e256b4d2b\60b771b31574a64ca8c50c55_744887.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/603d05ce503d705e256b4d2b/css/jobgurus.webflow.ff0023165.css
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\603d05ce503d705e256b4d2b\css\jobgurus.webflow.ff0023165.css
+Content Type: text/css
+
+Uri: https://assets.website-files.com/603d05ce503d705e256b4d2b/js/webflow.a1df50643.js
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\603d05ce503d705e256b4d2b\js\webflow.a1df50643.js
+Content Type: text/javascript
+
+Uri: https://assets.website-files.com/6042cae48c5ed47aa76963ee/6042cb87e717601d92185d6d_1614990214637-image13.jpg
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\6042cae48c5ed47aa76963ee\6042cb87e717601d92185d6d_1614990214637-image13.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6042cae48c5ed47aa76963ee/604660d6fb63562e7b473563_instagram-logo.svg
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\6042cae48c5ed47aa76963ee\604660d6fb63562e7b473563_instagram-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/6042cae48c5ed47aa76963ee/604660e00fc7a548a9d62d63_twitter-logo.svg
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\6042cae48c5ed47aa76963ee\604660e00fc7a548a9d62d63_twitter-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/6042cae48c5ed47aa76963ee/604660eebbe19855839b4ce3_webflow-logo.svg
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\6042cae48c5ed47aa76963ee\604660eebbe19855839b4ce3_webflow-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/6042cae48c5ed47aa76963ee/604660fc47532c7b82c19702_youtube-jobs-webflow-template.svg
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\6042cae48c5ed47aa76963ee\604660fc47532c7b82c19702_youtube-jobs-webflow-template.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/6042cae48c5ed47aa76963ee/6046610772588ef7823dec65_google-logo.svg
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\6042cae48c5ed47aa76963ee\6046610772588ef7823dec65_google-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/6042cae48c5ed47aa76963ee/604661187a823a1b6536c003_facebook-logo.svg
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\6042cae48c5ed47aa76963ee\604661187a823a1b6536c003_facebook-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/6042cae48c5ed47aa76963ee/6047e6af15d0cf4ae7d4ca70_сan-you-just-stop-for-one-minute-and-look-here_.jpg
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\6042cae48c5ed47aa76963ee\6047e6af15d0cf4ae7d4ca70_сan-you-just-stop-for-one-minute-and-look-here_.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6042cae48c5ed47aa76963ee/6047e6e45f4f5cd3b7f36904_call-center-agent-looking-outraged-while-explaining-something.jpg
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\6042cae48c5ed47aa76963ee\6047e6e45f4f5cd3b7f36904_call-center-agent-looking-outraged-while-explaining-something.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6042cae48c5ed47aa76963ee/6047e6f1783fcf82f84af403_modern-office-background.jpg
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\6042cae48c5ed47aa76963ee\6047e6f1783fcf82f84af403_modern-office-background.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6042cae48c5ed47aa76963ee/6047e70e958bce4586291810_giving-this-construction-a-life.jpg
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\6042cae48c5ed47aa76963ee\6047e70e958bce4586291810_giving-this-construction-a-life.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6042cae48c5ed47aa76963ee/6047e71a445b8ac088d47f17_colleagues-laughing-at-work.jpg
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\6042cae48c5ed47aa76963ee\6047e71a445b8ac088d47f17_colleagues-laughing-at-work.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6042cae48c5ed47aa76963ee/6047e723edab5f75a35ddad1_a-female-office-worker-at-the-table-holding-papers-with-diagrams.jpg
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\6042cae48c5ed47aa76963ee\6047e723edab5f75a35ddad1_a-female-office-worker-at-the-table-holding-papers-with-diagrams.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6042cae48c5ed47aa76963ee/6047e72a4ab34c39d1873c76_a-clean-white-room-for-office-workers%2C-with-cold-lighting-and-computer-desks-in-a-row.jpg
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\6042cae48c5ed47aa76963ee\6047e72a4ab34c39d1873c76_a-clean-white-room-for-office-workers,-with-cold-lighting-and-computer-desks-in-a-row.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/static/page-not-found.211a85e40c.svg
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\static\page-not-found.211a85e40c.svg
+Content Type: image/svg+xml
+
+Uri: https://d3e54v103j8qbb.cloudfront.net/img/background-image.svg
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\img\background-image.svg
+Content Type: image/svg+xml
+
+Uri: https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=603d05ce503d705e256b4d2b
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\js\jquery-3.5.1.min.dc5e7f18c8.js
+Content Type: application/javascript
+
+Uri: https://d3e54v103j8qbb.cloudfront.net/static/custom-checkbox-checkmark.589d534424.svg
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\static\custom-checkbox-checkmark.589d534424.svg
+Content Type: image/svg+xml
+
+Uri: https://jobgurus.webflow.io/
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\index.htm
+Content Type: text/html
+
+Uri: https://jobgurus.webflow.io/401
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\401.html
+Content Type: text/html
+
+Uri: https://jobgurus.webflow.io/404
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\404.html
+Content Type: text/html
+
+Uri: https://jobgurus.webflow.io/companies/facebook
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\companies\facebook.html
+Content Type: text/html
+
+Uri: https://jobgurus.webflow.io/companies/google
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\companies\google.html
+Content Type: text/html
+
+Uri: https://jobgurus.webflow.io/companies/instagram
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\companies\instagram.html
+Content Type: text/html
+
+Uri: https://jobgurus.webflow.io/companies/twitter
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\companies\twitter.html
+Content Type: text/html
+
+Uri: https://jobgurus.webflow.io/companies/webflow
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\companies\webflow.html
+Content Type: text/html
+
+Uri: https://jobgurus.webflow.io/companies/youtube
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\companies\youtube.html
+Content Type: text/html
+
+Uri: https://jobgurus.webflow.io/company/about-vr-1
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\company\about-vr-1.html
+Content Type: text/html
+
+Uri: https://jobgurus.webflow.io/company/about-vr-2
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\company\about-vr-2.html
+Content Type: text/html
+
+Uri: https://jobgurus.webflow.io/company/about-vr-3
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\company\about-vr-3.html
+Content Type: text/html
+
+Uri: https://jobgurus.webflow.io/company/contact-vr-1
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\company\contact-vr-1.html
+Content Type: text/html
+
+Uri: https://jobgurus.webflow.io/company/contact-vr-2
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\company\contact-vr-2.html
+Content Type: text/html
+
+Uri: https://jobgurus.webflow.io/company/contact-vr-3
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\company\contact-vr-3.html
+Content Type: text/html
+
+Uri: https://jobgurus.webflow.io/company/faq-page
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\company\faq-page.html
+Content Type: text/html
+
+Uri: https://jobgurus.webflow.io/company/jobs
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\company\jobs.html
+Content Type: text/html
+
+Uri: https://jobgurus.webflow.io/company/our-team
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\company\our-team.html
+Content Type: text/html
+
+Uri: https://jobgurus.webflow.io/company/pricing
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\company\pricing.html
+Content Type: text/html
+
+Uri: https://jobgurus.webflow.io/job-categories/marketing
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\job-categories\marketing.html
+Content Type: text/html
+
+Uri: https://jobgurus.webflow.io/job-categories/sales
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\job-categories\sales.html
+Content Type: text/html
+
+Uri: https://jobgurus.webflow.io/job-categories/technology
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\job-categories\technology.html
+Content Type: text/html
+
+Uri: https://jobgurus.webflow.io/job-categories/transportation
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\job-categories\transportation.html
+Content Type: text/html
+
+Uri: https://jobgurus.webflow.io/job-type/full-time
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\job-type\full-time.html
+Content Type: text/html
+
+Uri: https://jobgurus.webflow.io/job-type/internship
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\job-type\internship.html
+Content Type: text/html
+
+Uri: https://jobgurus.webflow.io/job-type/part-time
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\job-type\part-time.html
+Content Type: text/html
+
+Uri: https://jobgurus.webflow.io/job-type/remote
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\job-type\remote.html
+Content Type: text/html
+
+Uri: https://jobgurus.webflow.io/jobs/computer-systems
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\jobs\computer-systems.html
+Content Type: text/html
+
+Uri: https://jobgurus.webflow.io/jobs/delivery-driver
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\jobs\delivery-driver.html
+Content Type: text/html
+
+Uri: https://jobgurus.webflow.io/jobs/front-end-developer
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\jobs\front-end-developer.html
+Content Type: text/html
+
+Uri: https://jobgurus.webflow.io/jobs/marketing-coordinator
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\jobs\marketing-coordinator.html
+Content Type: text/html
+
+Uri: https://jobgurus.webflow.io/jobs/marketing-specialist
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\jobs\marketing-specialist.html
+Content Type: text/html
+
+Uri: https://jobgurus.webflow.io/jobs/network-architect
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\jobs\network-architect.html
+Content Type: text/html
+
+Uri: https://jobgurus.webflow.io/jobs/network-engineer
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\jobs\network-engineer.html
+Content Type: text/html
+
+Uri: https://jobgurus.webflow.io/jobs/sales-assistant
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\jobs\sales-assistant.html
+Content Type: text/html
+
+Uri: https://jobgurus.webflow.io/jobs/sales-manager
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\jobs\sales-manager.html
+Content Type: text/html
+
+Uri: https://jobgurus.webflow.io/jobs/transport-dispatcher
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\jobs\transport-dispatcher.html
+Content Type: text/html
+
+Uri: https://jobgurus.webflow.io/landing/landing-vr-2
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\landing\landing-vr-2.html
+Content Type: text/html
+
+Uri: https://jobgurus.webflow.io/landing/landing-vr-3
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\landing\landing-vr-3.html
+Content Type: text/html
+
+Uri: https://jobgurus.webflow.io/landing/landing-vr-4
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\landing\landing-vr-4.html
+Content Type: text/html
+
+Uri: https://jobgurus.webflow.io/location/arizona
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\location\arizona.html
+Content Type: text/html
+
+Uri: https://jobgurus.webflow.io/location/chicago
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\location\chicago.html
+Content Type: text/html
+
+Uri: https://jobgurus.webflow.io/location/new-jersey
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\location\new-jersey.html
+Content Type: text/html
+
+Uri: https://jobgurus.webflow.io/location/new-york
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\location\new-york.html
+Content Type: text/html
+
+Uri: https://jobgurus.webflow.io/sections/block-ads
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\sections\block-ads.html
+Content Type: text/html
+
+Uri: https://jobgurus.webflow.io/sections/clients
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\sections\clients.html
+Content Type: text/html
+
+Uri: https://jobgurus.webflow.io/sections/footers
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\sections\footers.html
+Content Type: text/html
+
+Uri: https://jobgurus.webflow.io/sections/hero-sections
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\sections\hero-sections.html
+Content Type: text/html
+
+Uri: https://jobgurus.webflow.io/sections/jobs-cards
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\sections\jobs-cards.html
+Content Type: text/html
+
+Uri: https://jobgurus.webflow.io/sections/pricing-tables
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\sections\pricing-tables.html
+Content Type: text/html
+
+Uri: https://jobgurus.webflow.io/sections/tabs-and-accordions
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\sections\tabs-and-accordions.html
+Content Type: text/html
+
+Uri: https://jobgurus.webflow.io/sections/testimonials
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\sections\testimonials.html
+Content Type: text/html
+
+Uri: https://jobgurus.webflow.io/template/changelog
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\template\changelog.html
+Content Type: text/html
+
+Uri: https://jobgurus.webflow.io/template/getting-started
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\template\getting-started.html
+Content Type: text/html
+
+Uri: https://jobgurus.webflow.io/template/licensing
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\template\licensing.html
+Content Type: text/html
+
+Uri: https://jobgurus.webflow.io/template/privacy-policy
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\template\privacy-policy.html
+Content Type: text/html
+
+Uri: https://jobgurus.webflow.io/template/style-guide
+File Name: C:\Downloaded Web Sites\jobgurus.webflow.io\template\style-guide.html
+Content Type: text/html
+
